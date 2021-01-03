@@ -3,3 +3,4 @@ title: logseq
 ---
 
 ## sss
+## [[newPage]]
